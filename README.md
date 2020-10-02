@@ -1,0 +1,2 @@
+# Trippy
+Proyecto Trippy store 
